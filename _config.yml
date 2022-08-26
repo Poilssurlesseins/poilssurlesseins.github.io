@@ -1,7 +1,0 @@
-# _config.yml (defaults)
-repository  : "Poilssurlesseins/poilssurlesseins.github.io"
-comments:
-  provider  : "staticman_v2"
-  staticman:
-    branch    : "main"
-    endpoint  : https://staticman-commentaires.herokuapp.com/v3/entry/github/
